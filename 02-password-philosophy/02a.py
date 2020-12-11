@@ -1,3 +1,4 @@
+# How many passwords are valid according to their policies?
 with open('input.txt') as f:
     lines = f.read().splitlines()
     print(lines)

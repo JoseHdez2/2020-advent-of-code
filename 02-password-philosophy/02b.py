@@ -1,4 +1,4 @@
-# How many passwords are valid according to the new interpretation of the policies?
+# How many passwords are valid according to their policies?
 with open('input.txt') as f:
     lines = f.read().splitlines()
     print(lines)
